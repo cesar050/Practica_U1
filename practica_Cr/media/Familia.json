@@ -1,0 +1,5 @@
+[{"id":"1","nombre":"Familia Ramos","tieneGenerador":true,"presupuesto":1500.0,"costoGenerador":1200.0,"consumoPorHora":12.75,"energiaGenerada":500.0,"usoGenerador":"Personal"},
+{"id":"2","nombre":"Familia Diaz","tieneGenerador":true,"presupuesto":1500.0,"costoGenerador":1200.0,"consumoPorHora":0.75,"energiaGenerada":500.0,"usoGenerador":"Financiero"},
+{"id":"3","nombre":"Familia Elizalde","tieneGenerador":true,"presupuesto":3500.0,"costoGenerador":1200.0,"consumoPorHora":0.75,"energiaGenerada":500.0,"usoGenerador":"Financiero"},
+{"id":"4","nombre":"Familia Ramos","tieneGenerador":true,"presupuesto":150.0,"costoGenerador":1200.0,"consumoPorHora":0.75,"energiaGenerada":500.0,"usoGenerador":"Personal"},
+{"id":"5","nombre":"Famila Ramos","tieneGenerador":true,"presupuesto":1500.0,"costoGenerador":1250.0,"consumoPorHora":3.04,"energiaGenerada":150.04,"usoGenerador":"Personal"}]
