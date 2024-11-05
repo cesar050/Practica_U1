@@ -1,1 +1,7 @@
-[{"id":"1","precio":850.0,"consumoPorHora":1.25,"energiaGenerada":400.0,"uso":"Semanal"},{"id":"2","precio":750.0,"consumoPorHora":4.25,"energiaGenerada":450.0,"uso":"Mensual"},{"id":"3","precio":250.0,"consumoPorHora":1.25,"energiaGenerada":120.0,"uso":"Diario"},{"id":"4","precio":1050.0,"consumoPorHora":7.25,"energiaGenerada":450.0,"uso":"Diaria"},{"id":"5","precio":2500.03,"consumoPorHora":164.11,"energiaGenerada":1203.12,"uso":"Diario"},{"id":"6","precio":150.02,"consumoPorHora":14.01,"energiaGenerada":67.02,"uso":"Diario"},{"id":"7","precio":250.0,"consumoPorHora":250.0,"energiaGenerada":1500.0,"uso":"Semanal"}]
+[{"id":"1","precio":850.0,"consumoPorHora":1.25,"energiaGenerada":400.0,"uso":"Semanal"},
+{"id":"2","precio":750.0,"consumoPorHora":4.25,"energiaGenerada":450.0,"uso":"Mensual"},
+{"id":"3","precio":250.0,"consumoPorHora":1.25,"energiaGenerada":120.0,"uso":"Diario"},
+{"id":"4","precio":1050.0,"consumoPorHora":7.25,"energiaGenerada":450.0,"uso":"Diaria"},
+{"id":"5","precio":2500.03,"consumoPorHora":164.11,"energiaGenerada":1203.12,"uso":"Diario"},
+{"id":"6","precio":150.02,"consumoPorHora":14.01,"energiaGenerada":67.02,"uso":"Diario"},
+{"id":"7","precio":250.0,"consumoPorHora":250.0,"energiaGenerada":1500.0,"uso":"Semanal"}]
